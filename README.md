@@ -10,7 +10,7 @@
 
 [![Telegram Channel](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=blue)](https://t.me/Gtajisan_Channel)
 
-###### ( version for Android [link](https://github.com/Gtajisan/MiTool) )
+###### ( version for Android [link](https://github.com/Gtajisan/Miui-Tool) )
 
 </div>
 
