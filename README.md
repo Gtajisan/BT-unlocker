@@ -35,7 +35,7 @@ pkg install Python3
 cd BT-unlocker
 ```
 ```
-Python3 Gtajisan-BT-unlocker.py
+python3 Gtajisan-BT-unlocker.py
 ```
 
 3 - download [platform-tools](https://developer.android.com/tools/releases/platform-tools) 
