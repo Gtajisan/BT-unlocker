@@ -23,7 +23,19 @@
 
 2 - From Terminal or CMD run:
 ```bash
+git clone https://github.com/Gtajisan/BT-unlocker
+```
+```
 pip3 install requests pycryptodomex termcolor
+```
+```
+pkg install Python3
+```
+```
+cd BT-unlocker
+```
+```
+Gtajisan-BT-unlocker.py
 ```
 
 3 - download [platform-tools](https://developer.android.com/tools/releases/platform-tools) 
